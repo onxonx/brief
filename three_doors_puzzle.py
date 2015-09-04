@@ -40,3 +40,4 @@ def check(count, switch):
  
 print("Don't switch:", check(1000, switch=False))
 print("Switch      :", check(1000, switch=True))
+
